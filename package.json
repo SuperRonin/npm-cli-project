@@ -1,0 +1,20 @@
+{
+    "name": "busv",
+    "version": "1.0.3",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "busv": "./bin/bus.js"
+    },
+    "author": "xuexingwei20@163.com",
+    "license": "ISC",
+    "dependencies": {
+        "commander": "^2.15.1",
+        "git-clone": "^0.1.0",
+        "inquirer": "^6.0.0",
+        "tracer": "^0.8.15"
+    }
+}
